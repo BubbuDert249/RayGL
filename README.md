@@ -6,6 +6,7 @@ GLRT only supports Windows and Linux <br>
 Windows: <br>
 - Download or compile GLRT.dll
 - Put GLRT.dll in C:\Windows\System32\ (requires admin rights) <br>
+<br>
 Linux: <br>
 - Download or compile libGLRT.so
 - Put libGLRT.so in /usr/lib/ (requires sudo rights)
